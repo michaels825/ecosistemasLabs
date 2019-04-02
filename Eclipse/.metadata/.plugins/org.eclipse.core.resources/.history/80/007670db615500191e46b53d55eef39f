@@ -1,0 +1,19 @@
+package principal;
+
+import processing.core.PApplet;
+import processing.core.PVector;
+
+public class Casilla {
+
+	private PVector pos;
+	private PVector tam;
+	private PApplet app;
+	
+	public Casilla(PVector pos) {
+		this.app = Main.app;
+		this.pos = pos;
+		this.tam = new PVector()
+	}
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Comunicacion.java&apos; to &apos;TresLineas/src/comunicacion&apos;&#x0D;&#x0A;- Original project: &apos;TresLineas&apos;&#x0D;&#x0A;- Destination element: &apos;TresLineas/src/comunicacion&apos;&#x0D;&#x0A;- Original element: &apos;Comunicacion.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;comunicacion" element1="/src&lt;{Comunicacion.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1554220711513" units="1" version="1.0"/>
+</session>

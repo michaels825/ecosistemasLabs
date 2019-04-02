@@ -1,0 +1,17 @@
+package principal;
+
+import processing.core.PVector;
+
+public class Casilla {
+
+	private PVector pos;
+	private PVector tam;
+	
+	public Casilla(PVector pos) {
+		
+		this.pos = pos;
+		this.tam = new PVector()
+	}
+	
+	
+}
